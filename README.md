@@ -22,6 +22,8 @@ By hosting our website on GitHub, we aim to foster a culture of openness and col
 
 ## Who we are
 
+### Team members
+
 Ryan Hopkins -- [LinkedIn](http://linkedin.com/in/ryan-hopkins-253344277)
 
 Jodi Anderson Jr. -- [LinkedIn](http://linkedin.com/)
@@ -50,3 +52,10 @@ Christoper Conner -- [LinkedIn](https://www.linkedin.com)
 
 Cole Dykstra -- [LinkedIn](https://www.linkedin.com)
 
+### Our mission
+
+Equipping communities with essential skills to enter and thrive in the rapidly changing workforce.
+
+### Our vision
+
+Empowering communities wth technology to develop thriving ecosystems for all.
