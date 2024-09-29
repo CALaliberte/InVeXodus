@@ -59,3 +59,6 @@ Equipping communities with essential skills to enter and thrive in the rapidly c
 ### Our vision
 
 Empowering communities wth technology to develop thriving ecosystems for all.
+
+## Work with us
+
