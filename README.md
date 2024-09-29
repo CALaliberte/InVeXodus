@@ -25,16 +25,28 @@ By hosting our website on GitHub, we aim to foster a culture of openness and col
 Ryan Hopkins -- [LinkedIn](http://linkedin.com/in/ryan-hopkins-253344277)
 
 Jodi Anderson Jr. -- [LinkedIn](http://linkedin.com/)
+
 Christopher Laliberte -- [LinkedIn](https://www.linkedin.com/in/christopher-laliberte-91a0462a8)
+
 Victoria Scott -- [LinkedIn](https://www.linkedin.com/in/)
+
 Christopher Aro -- [LinkedIn](https://www.linkedin.com)
+
 Caroline Dennis -- [LinkedIn](https://www.linkedin.com)
+
 Debbie Brill -- [LinkedIn](https://www.linkedin.com)
+
 Erica Graham -- [LinkedIn](https://www.linkedin.com)
+
 Abdi "Lalee" Awad -- [LinkedIn](https://www.linkedin.com)
+
 Scott Matsuda -- [LinkedIn](https://www.linkedin.com)
+
 Rena Glare -- [LinkedIn](https://www.linkedin.com)
+
 Sarah Eatherly -- [LinkedIn](https://www.linkedin.com)
+
 Christoper Conner -- [LinkedIn](https://www.linkedin.com)
+
 Cole Dykstra -- [LinkedIn](https://www.linkedin.com)
 
