@@ -58,7 +58,7 @@ Equipping communities with essential skills to enter and thrive in the rapidly c
 
 ### Our vision
 
-Empowering communities wth technology to develop thriving ecosystems for all.
+Empowering communities with technology to develop thriving ecosystems for all.
 
 ## Where we work
 
@@ -78,7 +78,7 @@ We are a 501(c)(3) nonprofit that relies on contributions from others to serve o
 
     2) The **Education & Training Partnership** focuses on leveraging learning materials and resources to deliver hands-on training.
 
-    3) Through our **Employment Partnership**, we connect qualified individuals trained by InVeXodus® with employers seeking skilled professionals.
+    3) Through our **Employment Partnership**, we connect qualified individuals trained by *InVeXodus®* with employers seeking skilled professionals.
 
     4) Lastly, our **Contract Partnership** allows us to provide software development services through our CatalysTech Designs program.
 
