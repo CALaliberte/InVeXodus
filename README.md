@@ -60,5 +60,9 @@ Equipping communities with essential skills to enter and thrive in the rapidly c
 
 Empowering communities wth technology to develop thriving ecosystems for all.
 
+## Where we work
+
+We are headquartered in Maine, but all our work is currently conducted remotely, with team members located across the nation.
+
 ## Work with us
 
