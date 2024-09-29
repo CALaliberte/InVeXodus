@@ -23,6 +23,7 @@ By hosting our website on GitHub, we aim to foster a culture of openness and col
 ## Who we are
 
 Ryan Hopkins -- [LinkedIn](http://linkedin.com/in/ryan-hopkins-253344277)
+
 Jodi Anderson Jr. -- [LinkedIn](http://linkedin.com/)
 Christopher Laliberte -- [LinkedIn](https://www.linkedin.com/in/christopher-laliberte-91a0462a8)
 Victoria Scott -- [LinkedIn](https://www.linkedin.com/in/)
