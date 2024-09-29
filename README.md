@@ -82,8 +82,8 @@ We are a 501(c)(3) nonprofit that relies on contributions from others to serve o
 
     4) Lastly, our **Contract Partnership** allows us to provide software development services through our CatalysTech Designs program.
 
-* Volunteer -
+* Volunteer - We welcome individuals with diverse skill sets to contribute to our mission. If you have a unique way to support our organization, please reach out to us.
 
-* Share our Mission and Vision -
+* Share our Mission and Vision - If you believe in our mission and vision, please share about *InVeXodus®* across your media platforms.
 
 Your contributions are appreciated and will help us achieve our vision to empower communities with technology to develop thriving ecosystems for all.
