@@ -24,7 +24,7 @@ By hosting our website on GitHub, we aim to foster a culture of openness and col
 
 ### Team members
 
-Ryan Hopkins(--)[LinkedIn](http://linkedin.com/in/ryan-hopkins-253344277)
+Ryan Hopkins -- [LinkedIn](http://linkedin.com/in/ryan-hopkins-253344277)
 
 Jodi Anderson Jr. -- [LinkedIn](http://linkedin.com/)
 
@@ -66,3 +66,16 @@ We are headquartered in Maine, but all our work is currently conducted remotely,
 
 ## Work with us
 
+We are a 501(c)(3) nonprofit that relies on contributions from others to serve our community. There are several ways you can assist us in our mission to equip communities with essential skills for the modern workforce.
+
+* Donate - Your financial contributions help us provide essential resources, including the development of training software and curriculum.
+
+* Contribute to Our Projects - Join our collaborative efforts by contributing to our open-source projects on GitHub. Your expertise and time can make a significant impact on our mission.
+
+* [Partner with US](https://docs.google.com/forms/d/e/1FAIpQLSfBHjH8MrrP9yXTyMvEsLFMw3l4UXmlc7b4GOOieDBxfVdCdQ/viewform?usp=sf_link) - We partner with like-minded organizations to ensure that we provide valuable resources to prepare individuals for the workforce. InVeXodus® offers a variety of partnership opportunities to support our mission.
+
+* Volunteer -
+
+* Share our Mission and Vision -
+
+Your contributions are appreciated and will help us achieve our vision to empower communities with technology to develop thriving ecosystems for all.
