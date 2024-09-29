@@ -87,3 +87,7 @@ We are a 501(c)(3) nonprofit that relies on contributions from others to serve o
 * Share our Mission and Vision - If you believe in our mission and vision, please share about *InVeXodus®* across your media platforms.
 
 Your contributions are appreciated and will help us achieve our vision to empower communities with technology to develop thriving ecosystems for all.
+
+### Commitment to equity
+
+*InVeXodus®* is dedicated to promoting diversity, equity, and inclusion (DEI) within our organization and the communities we serve. We recognize that a diverse membership enhances our collective strength and creativity, and we are committed to creating an equitable environment where all individuals have access to opportunities, resources, and decision-making processes. Our initiatives will focus on fostering an inclusive culture that values and respects diverse perspectives while actively working to identify and dismantle systemic barriers to equity. Through ongoing education, equitable practices, and community engagement, we aim to ensure that every member feels welcomed, valued, and empowered.
