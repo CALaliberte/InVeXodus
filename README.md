@@ -8,7 +8,7 @@ This mission is fueled by the stories of our founding members. *InVeXodus* was f
 
 Below is a snapshot of how we think, including a link to our previously-internal [operating manual](https://github.com/CALaliberte/InVeXodus/blob/main/1%20-%20Manual.md) — with many details on how we work.
 
-*(Thanks [Bloomberg Beta](https://github.com/Bloomberg-Beta/Manual?tab=readme-ov-file) for the inspiration on developing this site.)*
+*(Thanks [Bloomberg Beta](https://github.com/Bloomberg-Beta/Manual?tab=readme-ov-file) for the inspiration to develop this site.)*
 
 ## Why our website is on GitHub
 
