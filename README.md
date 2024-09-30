@@ -76,11 +76,11 @@ We are a 501(c)(3) nonprofit that relies on contributions from others to serve o
 
 * Contribute to Our Projects — Join our collaborative efforts by contributing to our open-source projects on GitHub. Your expertise and time can make a significant impact on our mission.
 
-* [Partner with US](https://docs.google.com/forms/d/e/1FAIpQLSfBHjH8MrrP9yXTyMvEsLFMw3l4UXmlc7b4GOOieDBxfVdCdQ/viewform?usp=sf_link) — We partner with like-minded organizations to ensure that we provide valuable resources to prepare individuals for the workforce. InVeXodus® offers a variety of partnership opportunities to support our mission.
+* [Partner with US](https://docs.google.com/forms/d/e/1FAIpQLSfBHjH8MrrP9yXTyMvEsLFMw3l4UXmlc7b4GOOieDBxfVdCdQ/viewform?usp=sf_link) — We partner with like-minded organizations to ensure that we provide valuable resources to prepare individuals for the workforce. *InVeXodus®* offers a variety of partnership opportunities to support our mission.
 
     1) Our **Mutual Interest Partnership** enables us to collaborate with organizations that share our commitment to education and career development.
 
-    2) The **Education & Training Partnership** focuses on leveraging learning materials and resources to deliver hands-on training.
+    2) The **Education and Training Partnership** focuses on leveraging learning materials and resources to deliver hands-on training.
 
     3) Through our **Employment Partnership**, we connect qualified individuals trained by *InVeXodus®* with employers seeking skilled professionals.
 
