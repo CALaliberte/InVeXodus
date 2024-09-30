@@ -20,3 +20,6 @@ At *InVeXodus®*, our core values guide our actions and decisions:
 * Stewardship - Managing resources responsibly and sustainably.
 
 We are dedicated to promoting diversity, equity, and inclusion within our organization and the communities we serve. By fostering an inclusive culture and dismantling systemic barriers, we aim to empower every individual to thrive.
+
+## Our investors
+
