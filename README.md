@@ -28,33 +28,33 @@ By hosting our website on GitHub, we aim to foster a culture of openness and col
 
 ### Team members
 
-Ryan Hopkins -- [LinkedIn](http://linkedin.com/in/ryan-hopkins-253344277)
+Ryan Hopkins — [LinkedIn](http://linkedin.com/in/ryan-hopkins-253344277)
 
-Jodi Anderson Jr. -- [LinkedIn](http://linkedin.com/)
+Jodi Anderson Jr. — [LinkedIn](http://linkedin.com/)
 
-Christopher Laliberte -- [LinkedIn](https://www.linkedin.com/in/christopher-laliberte-91a0462a8)
+Christopher Laliberte — [LinkedIn](https://www.linkedin.com/in/christopher-laliberte-91a0462a8)
 
-Victoria Scott -- [LinkedIn](https://www.linkedin.com/in/)
+Victoria Scott — [LinkedIn](https://www.linkedin.com/in/)
 
-Christopher Aro -- [LinkedIn](https://www.linkedin.com)
+Christopher Aro — [LinkedIn](https://www.linkedin.com)
 
-Caroline Dennis -- [LinkedIn](https://www.linkedin.com)
+Caroline Dennis — [LinkedIn](https://www.linkedin.com)
 
-Debbie Brill -- [LinkedIn](https://www.linkedin.com)
+Debbie Brill — [LinkedIn](https://www.linkedin.com)
 
-Erica Graham -- [LinkedIn](https://www.linkedin.com)
+Erica Graham — [LinkedIn](https://www.linkedin.com)
 
-Abdi "Lalee" Awad -- [LinkedIn](https://www.linkedin.com)
+Abdi "Lalee" Awad — [LinkedIn](https://www.linkedin.com)
 
-Scott Matsuda -- [LinkedIn](https://www.linkedin.com)
+Scott Matsuda — [LinkedIn](https://www.linkedin.com)
 
-Rena Glare -- [LinkedIn](https://www.linkedin.com)
+Rena Glare — [LinkedIn](https://www.linkedin.com)
 
-Sarah Eatherly -- [LinkedIn](https://www.linkedin.com)
+Sarah Eatherly — [LinkedIn](https://www.linkedin.com)
 
-Christoper Conner -- [LinkedIn](https://www.linkedin.com)
+Christoper Conner — [LinkedIn](https://www.linkedin.com)
 
-Cole Dykstra -- [LinkedIn](https://www.linkedin.com)
+Cole Dykstra — [LinkedIn](https://www.linkedin.com)
 
 ### Our mission
 
@@ -72,11 +72,11 @@ We are headquartered in Maine, but all our work is currently conducted remotely,
 
 We are a 501(c)(3) nonprofit that relies on contributions from others to serve our community. There are several ways you can assist us in our mission to equip communities with essential skills for the modern workforce.
 
-* Donate - Your financial contributions help us provide essential resources, including the development of training software and curriculum.
+* Donate — Your financial contributions help us provide essential resources, including the development of training software and curriculum.
 
-* Contribute to Our Projects - Join our collaborative efforts by contributing to our open-source projects on GitHub. Your expertise and time can make a significant impact on our mission.
+* Contribute to Our Projects — Join our collaborative efforts by contributing to our open-source projects on GitHub. Your expertise and time can make a significant impact on our mission.
 
-* [Partner with US](https://docs.google.com/forms/d/e/1FAIpQLSfBHjH8MrrP9yXTyMvEsLFMw3l4UXmlc7b4GOOieDBxfVdCdQ/viewform?usp=sf_link) - We partner with like-minded organizations to ensure that we provide valuable resources to prepare individuals for the workforce. InVeXodus® offers a variety of partnership opportunities to support our mission.
+* [Partner with US](https://docs.google.com/forms/d/e/1FAIpQLSfBHjH8MrrP9yXTyMvEsLFMw3l4UXmlc7b4GOOieDBxfVdCdQ/viewform?usp=sf_link) — We partner with like-minded organizations to ensure that we provide valuable resources to prepare individuals for the workforce. InVeXodus® offers a variety of partnership opportunities to support our mission.
 
     1) Our **Mutual Interest Partnership** enables us to collaborate with organizations that share our commitment to education and career development.
 
@@ -86,9 +86,9 @@ We are a 501(c)(3) nonprofit that relies on contributions from others to serve o
 
     4) Lastly, our **Contract Partnership** allows us to provide software development services through our CatalysTech Designs program.
 
-* Volunteer - We welcome individuals with diverse skill sets to contribute to our mission. If you have a unique way to support our organization, please reach out to us.
+* Volunteer — We welcome individuals with diverse skill sets to contribute to our mission. If you have a unique way to support our organization, please reach out to us.
 
-* Share our Mission and Vision - If you believe in our mission and vision, please share about *InVeXodus®* across your media platforms.
+* Share our Mission and Vision — If you believe in our mission and vision, please share about *InVeXodus®* across your media platforms.
 
 Your contributions are appreciated and will help us achieve our vision to empower communities with technology to develop thriving ecosystems for all.
 
