@@ -8,6 +8,8 @@ This mission is fueled by the stories of our founding members. *InVeXodus* was f
 
 Below is a snapshot of how we think, including a link to our previously-internal [operating manual] — with many details on how we work.
 
+*(Thanks [Bloomberg Beta](https://github.com/Bloomberg-Beta/Manual?tab=readme-ov-file) for the inspiration on developing this site.)*
+
 ## Why our website is on GitHub
 
 Inspired by [Bloomberg Beta's](https://github.com/Bloomberg-Beta/Manual?tab=readme-ov-file) innovative approach, we chose to host our website on GitHub to embrace transparency and collaboration. This platform allows us to openly share our processes, decisions, and financials, aligning with our core value of transparency.
