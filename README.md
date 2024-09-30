@@ -6,6 +6,8 @@
 
 This mission is fueled by the stories of our founding members. *InVeXodus* was founded by three individuals while incarcerated in different prisons across Maine, and one individual who is formerly incarcerated. Their shared experiences highlighted the underlying issues leading to incarceration and the barriers faced upon release. Meaningful employment is crucial to participate in society, yet barriers to employment exist for many people for various reasons. Empathizing with this struggle, we took action by providing relevant skill development in modern industries. Our vision is to foster thriving communities by helping people secure meaningful employment.
 
+Below is a snapshot of how we think, including a link to our previously-internal [operating manual] — with many details on how we work.
+
 ## Why our website is on GitHub
 
 Inspired by [Bloomberg Beta's](https://github.com/Bloomberg-Beta/Manual?tab=readme-ov-file) innovative approach, we chose to host our website on GitHub to embrace transparency and collaboration. This platform allows us to openly share our processes, decisions, and financials, aligning with our core value of transparency.
