@@ -1,4 +1,9 @@
-# Our Creed
+# *InVeXodus®* Operating Manual
+
+## Contents
+* [Our creed]
+
+## Our creed
 
 We believe in the power of innovative technologies to lead communities out of economic instability.
 
