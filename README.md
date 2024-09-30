@@ -1,8 +1,8 @@
-# [*InVeXodus*]® - Skills for Tomorrow, Today
+# [*InVeXodus*®](https://www.invexodus.org/) — Skills for Tomorrow, Today
 
 ## Why we exist
 
-[*InVeXodus*]®(https://www.invexodus.org/) is a 501(c)(3) nonprofit founded in 2024 for the purpose of workforce development and economic mobility. The name *InVeXodus®* combines "innovative" and "exodus", reflecting our mission to leverage innovative technologies to lead communities out of economic instability by equipping them with essential skills to thrive in the rapidly changing workforce. Our approach is heavily influenced by advancing STEM initiatives for everyone.
+[*InVeXodus*®](https://www.invexodus.org/) is a 501(c)(3) nonprofit founded in 2024 for the purpose of workforce development and economic mobility. The name *InVeXodus®* combines "innovative" and "exodus", reflecting our mission to leverage innovative technologies to lead communities out of economic instability by equipping them with essential skills to thrive in the rapidly changing workforce. Our approach is heavily influenced by advancing STEM initiatives for everyone.
 
 This mission is fueled by the stories of our founding members. *InVeXodus* was founded by three individuals while incarcerated in different prisons across Maine, and one individual who is formerly incarcerated. Their shared experiences highlighted the underlying issues leading to incarceration and the barriers faced upon release. Meaningful employment is crucial to participate in society, yet barriers to employment exist for many people for various reasons. Empathizing with this struggle, we took action by providing relevant skill development in modern industries. Our vision is to foster thriving communities by helping people secure meaningful employment.
 
