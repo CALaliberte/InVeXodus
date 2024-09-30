@@ -1,7 +1,7 @@
 # *InVeXodus®* Operating Manual
 
 ## Contents
-* [Our creed]
+* [Our creed](https://github.com/CALaliberte/InVeXodus/blob/main/1%20-%20Manual.md#our-creed)
 
 ## Our creed
 
