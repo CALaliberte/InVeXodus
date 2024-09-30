@@ -1,4 +1,4 @@
-# [*InVeXodus*®](https://www.invexodus.org/) — Skills for Tomorrow, Today
+# [*InVeXodus®*](https://www.invexodus.org/) — Skills for Tomorrow, Today
 
 ## Why we exist
 
