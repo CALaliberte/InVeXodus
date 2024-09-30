@@ -6,7 +6,7 @@
 
 This mission is fueled by the stories of our founding members. *InVeXodus* was founded by three individuals while incarcerated in different prisons across Maine, and one individual who is formerly incarcerated. Their shared experiences highlighted the underlying issues leading to incarceration and the barriers faced upon release. Meaningful employment is crucial to participate in society, yet barriers to employment exist for many people for various reasons. Empathizing with this struggle, we took action by providing relevant skill development in modern industries. Our vision is to foster thriving communities by helping people secure meaningful employment.
 
-Below is a snapshot of how we think, including a link to our previously-internal [operating manual] — with many details on how we work.
+Below is a snapshot of how we think, including a link to our previously-internal [operating manual](https://github.com/CALaliberte/InVeXodus/blob/main/1%20-%20Manual.md) — with many details on how we work.
 
 *(Thanks [Bloomberg Beta](https://github.com/Bloomberg-Beta/Manual?tab=readme-ov-file) for the inspiration on developing this site.)*
 
