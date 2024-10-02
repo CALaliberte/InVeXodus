@@ -23,8 +23,6 @@ We are dedicated to promoting diversity, equity, and inclusion within our organi
 
 ## Our funders
 
-## Our funders
-
 We are a 501(c)(3) nonprofit seeking funders to invest in our mission to promote opportunities within our communities using **innovative** technologies. We are not merely seeking to mirror what already exists. Instead, *InVeXodus®* thrives on innovation, constantly seeking creative solutions to address complex social challenges. We foster a culture of curiosity and exploration, allowing us to adapt and evolve in an ever-changing landscape, ensuring that our initiatives remain impactful and relevant.
 
 Our commitment to **integrity** includes delivering the products and services we agreed upon and shaping our organization around these commitments. We believe that building trust with our stakeholders, clients, and community is foundational to our mission and success.
