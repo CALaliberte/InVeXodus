@@ -38,3 +38,6 @@ Join us in reshaping the future workforce by investing in our mission and vision
 
 If you get an opportunity, check out our [Projects Page](https://github.com/) to see our exciting initiatives and meet our extremely talented engineering community.
 
+## What we believe about the future of work
+
+
