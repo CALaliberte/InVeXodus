@@ -94,7 +94,7 @@ Your contributions are appreciated and will help us achieve our vision to empowe
 
 ### Commitment to equity
 
-*InVeXodus®* is dedicated to promoting diversity, equity, and inclusion (DEI) within our organization and the communities we serve. We recognize that a diverse membership enhances our collective strength and creativity, and we are committed to creating an equitable environment where all individuals have access to opportunities, resources, and decision-making processes. Our initiatives will focus on fostering an inclusive culture that values and respects diverse perspectives while actively working to identify and dismantle systemic barriers to equity. Through ongoing education, equitable practices, and community engagement, we aim to ensure that every member feels welcomed, valued, and empowered.
+*InVeXodus®* is dedicated to promoting diversity, equity, and inclusion within our organization and the communities we serve. We recognize that a diverse membership enhances our collective strength and creativity, and we are committed to creating an equitable environment where all individuals have access to opportunities, resources, and decision-making processes. Our initiatives will focus on fostering an inclusive culture that values and respects diverse perspectives while actively working to identify and dismantle systemic barriers to equity. Through ongoing education, equitable practices, and community engagement, we aim to ensure that every member feels welcomed, valued, and empowered.
 
 ## Questions?
 
