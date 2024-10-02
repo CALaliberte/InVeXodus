@@ -2,7 +2,7 @@
 
 ## Contents
 * [Our creed](https://github.com/CALaliberte/InVeXodus/blob/main/1%20-%20Manual.md#our-creed)
-* [Our funders]
+* [Our funders](https://github.com/CALaliberte/InVeXodus/blob/main/1%20-%20Manual.md#our-funders)
 
 ## Our creed
 
