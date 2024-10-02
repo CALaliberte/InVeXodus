@@ -20,7 +20,10 @@ At *InVeXodus®*, our core values guide our actions and decisions:
 * Innovation — Seeking creative solutions to social challenges.
 * Stewardship — Managing resources responsibly and sustainably.
 
-We are dedicated to promoting diversity, equity, and inclusion within our organization and the communities we serve. By fostering an inclusive culture and dismantling systemic barriers, we aim to empower every individual to thrive.
+We are dedicated to promoting diversity, equity, and inclusion within our organization and the communities we serve. By fostering an inclusive culture and dismantling systemic barriers, we aim to empower every individual to achieve their full potential.
+
+### Equal opportunity employment statement
+At *InVeXodus®*, we are committed to creating an inclusive and diverse workplace. We believe that every individual deserves the opportunity to thrive, regardless of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status. We celebrate our differences and are dedicated to fostering an environment where everyone feels valued, respected, and empowered to reach their full potential.
 
 ## Our funders
 
