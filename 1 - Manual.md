@@ -23,3 +23,19 @@ We are dedicated to promoting diversity, equity, and inclusion within our organi
 
 ## Our funders
 
+## Our funders
+
+We are a 501(c)(3) nonprofit seeking funders to invest in our mission to promote opportunities within our communities using **innovative** technologies. We are not merely seeking to mirror what already exists. Instead, *InVeXodus®* thrives on innovation, constantly seeking creative solutions to address complex social challenges. We foster a culture of curiosity and exploration, allowing us to adapt and evolve in an ever-changing landscape, ensuring that our initiatives remain impactful and relevant.
+
+Our commitment to **integrity** includes delivering the products and services we agreed upon and shaping our organization around these commitments. We believe that building trust with our stakeholders, clients, and community is foundational to our mission and success.
+
+We practice **stewardship** by responsibly managing our resources, fostering sustainable practices, and advocating for the environment and community. *InVeXodus®* is committed to leaving a positive legacy, ensuring that future generations inherit a world enriched by our actions today.
+
+We will not accept the status quo. Instead, we embody **equanimity** by fostering a balanced and supportive work environment that aims to level the playing field. We provide essential resources and training to empower individuals with the skills they need to thrive in the workforce and advance to the next level.
+
+Finally, we thrive on **transparency**. Our website is hosted on GitHub to demonstrate our commitment to openly sharing our processes, decision-making, and financial information. In doing so, we align ourselves with [Bloomberg Beta's](https://github.com/Bloomberg-Beta/Manual?tab=readme-ov-file) innovative approach to conducting business. We understand that clear communication fosters accountability and empowers our community to engage in our meaningful work.
+
+Join us in reshaping the future workforce by investing in our mission and vision. Your contributions are appreciated and we look forward to collaborating.
+
+If you get an opportunity, check out our [Projects Page](https://github.com/) to see our exciting initiatives and meet our extremely talented engineering community.
+
