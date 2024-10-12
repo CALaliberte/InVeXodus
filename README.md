@@ -52,7 +52,7 @@ Rena Glare — [LinkedIn](https://www.linkedin.com/in/rena-glare-64983029a/)
 
 Sarah Eatherly — [LinkedIn](https://www.linkedin.com/in/saraheatherlydev/)
 
-Christoper Conner — [LinkedIn](https://www.linkedin.com)
+Christopher Conner — [LinkedIn](https://www.linkedin.com)
 
 Cole Dykstra — [LinkedIn](https://www.linkedin.com)
 
